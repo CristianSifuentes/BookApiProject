@@ -4,7 +4,7 @@ using System.Text;
 using Microsoft.EntityFrameworkCore;
 using BookApiProject.Entities.Models;
 
-namespace BookApiProject.Services.Context
+namespace BookApiProject.Repositories.Context
 {
     public class BookDbContext : DbContext
     {
